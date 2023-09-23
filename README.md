@@ -1,6 +1,4 @@
-Below is the content formatted for a `README.md` file:
 
-```markdown
 # NMEA GPS Sentence Parser
 
 **Page: 1 of 3**  
@@ -59,6 +57,3 @@ a matrix is:
 3. Include a screenshot of the test program being executed on YOUR Raspberry Pi computer. **Failure to include this screenshot will result in your program receiving a maximum grade of 50%.**
 4. Submit by attaching the git bundle file to the assignment submission page.
 5. Ensure adherence to the class policy regarding late submissions. No late submissions are permitted unless prior arrangement has been made with the instructor.
-```
-
-You can copy and paste the content above into a `README.md` file for your assignment.
